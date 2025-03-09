@@ -1,2 +1,0 @@
-class ques_6 {
-}
