@@ -1,0 +1,2 @@
+class ques_6 {
+}
